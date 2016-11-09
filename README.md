@@ -1,7 +1,7 @@
 
 ######Operation Open Congress #OPOC
 
-#####A Declaration for an Open Congress
+####A Declaration for an Open Congress
 
 **TO: Anonymous Members & Citizens of the World**
  
@@ -26,7 +26,7 @@ This movement is [Open Source](https://en.wikipedia.org/wiki/Open_source) and is
 
 ####Inspration
 
-><iframe width="560" height="315" src="https://www.youtube.com/embed/uKXNQROz4PA" frameborder="0" allowfullscreen></iframe>
+>[![ScreenShot](http://img.youtube.com/vi/uKXNQROz4PA/0.jpg)](http://youtu.be/uKXNQROz4PA)
 
 >“Join or Die"
 ~Benjamin Franklin
